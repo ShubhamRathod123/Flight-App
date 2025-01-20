@@ -2,7 +2,7 @@
   "name": "flight-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/ShubhamRathod123/Flight-Booking-App.git",
+  "homepage": "https://github.com/ShubhamRathod123/Flight-App.git",
   "dependencies": {
     "bootstrap": "^5.3.3",
     "cra-template": "1.2.0",
